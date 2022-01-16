@@ -9,7 +9,7 @@ main {
     background-color: hsl(216, 50%, 16%);
     border-radius: 3%;
     max-width: 351px;
-    margin: 152px auto 0 auto;
+    margin: 110px auto 0 auto;
     padding-bottom: 32px;
     box-shadow: 16px 44px #0c1729, -16px 44px #0c1729;
 }
