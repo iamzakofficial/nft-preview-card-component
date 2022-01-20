@@ -54,6 +54,7 @@ h1 {
 h1:hover {
     color: hsl(178, 100%, 50%);
     cursor: pointer;
+    transition: .5s ease;
 }
 
 .intro {
