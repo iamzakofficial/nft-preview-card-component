@@ -97,6 +97,7 @@ hr {
 .creation-active:hover {
     color: hsl(178, 100%, 50%);
     cursor: pointer;
+    transition: 0.5s ease;
 }
 
 .avatar-img {
